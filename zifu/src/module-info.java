@@ -1,0 +1,2 @@
+module zifu {
+}
